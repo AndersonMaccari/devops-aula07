@@ -1,6 +1,3 @@
-# devops-aula07
-
-
 import jogovelha
 import sys
 erroInicializar = False
